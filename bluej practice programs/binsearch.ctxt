@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=binsearch
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ s\ u\ l
+comment2.target=void\ bin(int[],\ int,\ int,\ int)
+numComments=3

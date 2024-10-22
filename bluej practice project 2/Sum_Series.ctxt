@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sum_Series()
+comment1.params=
+comment1.target=void\ readLimit()
+comment2.params=m\ p
+comment2.target=int\ getPower(int,\ int)
+comment3.params=
+comment3.target=void\ Sum()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

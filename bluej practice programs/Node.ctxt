@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=
+comment1.target=Node()
+comment2.params=
+comment2.target=void\ addNode()
+comment3.params=a\ n\ b
+comment3.target=void\ addNodes(int,\ int,\ Node)
+comment4.params=i\ a\ n
+comment4.target=void\ deleteNode(int,\ int,\ Node)
+comment5.params=n\ A
+comment5.target=void\ deleteNodeVal(int,\ Node)
+comment6.params=a
+comment6.target=void\ printNodes(Node)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

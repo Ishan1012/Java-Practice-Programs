@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=matrix
+comment1.params=
+comment1.target=matrix()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=ar\ a
+comment3.target=java.lang.String[]\ addToList(java.lang.String[],\ java.lang.String)
+comment4.params=ar
+comment4.target=int[][]\ extract(java.lang.String[])
+comment5.params=
+comment5.target=void\ value()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

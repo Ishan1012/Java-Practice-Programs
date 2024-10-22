@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=sum_matrix()
+comment1.params=nx\ ny
+comment1.target=void\ readRowColumn(int,\ int)
+comment2.params=
+comment2.target=void\ readMat()
+comment3.params=
+comment3.target=void\ showMat()
+comment4.params=
+comment4.target=void\ SumMat()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

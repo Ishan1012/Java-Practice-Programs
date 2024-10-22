@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyMatrix
+comment1.params=
+comment1.target=MyMatrix()
+comment2.params=
+comment2.target=void\ compute()
+comment3.params=p
+comment3.target=char\ getChar(int)
+comment4.params=
+comment4.target=void\ print()
+comment5.params=row
+comment5.target=java.lang.String\ getLine(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

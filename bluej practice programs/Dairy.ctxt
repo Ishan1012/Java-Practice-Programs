@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=max
+comment0.target=Dairy(int)
+comment1.params=n
+comment1.target=void\ pushadd(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ popadd()
+comment3.params=
+comment3.target=void\ show()
+numComments=4

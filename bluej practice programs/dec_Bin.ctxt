@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=dec_Bin()
+comment1.params=
+comment1.target=void\ getdata()
+comment2.params=a
+comment2.target=void\ recursive(int)
+comment3.params=
+comment3.target=void\ putdata()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

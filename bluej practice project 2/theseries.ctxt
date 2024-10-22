@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=theseries()
+comment1.params=
+comment1.target=void\ readList()
+comment2.params=num\ y
+comment2.target=int\ IsPrime(int,\ int)
+comment3.params=
+comment3.target=void\ PrintPrimes()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
